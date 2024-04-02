@@ -11,6 +11,8 @@
 	<h1 style="color: red; font-size: 40px;" align="center">THE FLASH</h1>
         <h1 style="color: gold; font-size: 40px;" align="center">BLACK ADAM</h1>
         <h1 style="color: army green; font-size: 40px;" align="center">MARTIAN MANHUNTER</h1>
+        <h1 style="color: orange; font-size: 40px;" align="center">ARES</h1>
+
 
 	
 	
