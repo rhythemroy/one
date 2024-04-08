@@ -3,7 +3,7 @@
 	
 </head>
 <body>
-	<h1 style="color: black; font-size: 40px;" align="center">BATMAN of GOWTHAM</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">BATMAN OF GOWTHAM</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">SON OK KRYPTON</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">AMAZON HAS NO FEAR</h1>
 	<h1 style="color: violet; font-size: 40px;" align="center">AQUAMAN OF ATLANTIS</h1>
