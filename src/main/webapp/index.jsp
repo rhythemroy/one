@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>DevOps</title>	
+<title>Devops</title>	
 </head>
 <body>
 	<h1 style="color: black; font-size: 40px;" align="center">BATMAN OF GOWTHAM</h1>
